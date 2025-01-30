@@ -7,7 +7,6 @@ Use para ello el IDE de Microsoft VS community edition 2022. Si cuenta con algun
 1. Entregar una imagen de pantalla con el resultado generado del programa.
 2. Entregar un archivo tipo texto que contenga la impresion de estos resultados.
 3. Se debe de incluir un archivo tipo word que incluya sus observaciones personales.
-   
    3.1 describa el uso de las variables usadas en el programa.
    3.2 describa funcionamiento del programa.
    3.3 incluya diagrama de flujo del programa.
